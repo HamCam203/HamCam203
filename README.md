@@ -2,6 +2,11 @@
 <h3 align="center">Software Engineer from France</h3>
 
 📫 How to reach me: **camarahamoudia@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/hamoudia-camara-700b03204/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamoudia-camara" height="30" width="40" /></a>
+</p>
 <!--
 **HamCam203/HamCam203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
