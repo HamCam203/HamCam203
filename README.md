@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hamoudia</h1>
+<h1 align="center">Hello 👋, I'm Hamoudia</h1>
 <h3 align="center">Software Engineer from France</h3>
 
 📫 How to reach me: **camarahamoudia@gmail.com**
